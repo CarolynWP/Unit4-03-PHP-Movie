@@ -1,0 +1,29 @@
+body {
+height: 100vh;
+	background: linear-gradient(
+		to bottom left,
+		#1535d4 0%,
+		#1535d4 10%,
+		#0c0a38 10%,
+		#0c0a38 20%,
+		#e2ff49 20%,
+		#e2ff49 32%,
+		#0c0a38 32%,
+		#0c0a38 50%,
+		#ff3434 50%,
+		#ff3434 62%,
+		#0c0a38 62%,
+		#0c0a38 80%,
+		#22ff47 80%,
+		#22ff47 92%,
+		#0c0a38 92%,
+		#0c0a38 100%
+	);
+}
+
+.margin {
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #f2ebff;
+	color: black;
+}

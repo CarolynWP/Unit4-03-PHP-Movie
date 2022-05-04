@@ -1,1 +1,1 @@
-# Unit4-03-PHP-Movie
+[![GitHub's Super Linter](https://github.com/CarolynWP/Unit4-03-PHP-Movie/actions/workflows/main.yml/badge.svg)](https://github.com/CarolynWP/Unit4-03-PHP-Movie/actions)
